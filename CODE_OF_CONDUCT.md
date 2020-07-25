@@ -1,4 +1,4 @@
-# Notitia AI menmber Code of Conduct
+# Notitia AI Member Code of Conduct
 
 ## Our Pledge
 
